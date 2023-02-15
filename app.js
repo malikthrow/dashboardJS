@@ -53,7 +53,7 @@ class ItemDashboard{
         const {current,previous} = this.data.timeframes[this.view]
 
         this.time.innerText = `${current}hrs`;
-        this.prev.innerText = `Last ${ItemDashboard.PERIOD[view]} - ${previous}hrs`
+        this.prev.innerText = `${ItemDashboard.PERIOD[view]} - ${previous}hrs`
     }
 }
 
