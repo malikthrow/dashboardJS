@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Work",
+    "timeframes": {
+      "Дни": {
+        "current": 5,
+        "previous": 7
+      },
+      "Недели": {
+        "current": 32,
+        "previous": 36
+      },
+      "Месяцы": {
+        "current": 103,
+        "previous": 128
+      }
+    }
+  },
+  {
+    "title": "Play",
+    "timeframes": {
+      "Дни": {
+        "current": 1,
+        "previous": 2
+      },
+      "Недели": {
+        "current": 10,
+        "previous": 8
+      },
+      "Месяцы": {
+        "current": 23,
+        "previous": 29
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "timeframes": {
+      "Дни": {
+        "current": 0,
+        "previous": 1
+      },
+      "Недели": {
+        "current": 4,
+        "previous": 7
+      },
+      "Месяцы": {
+        "current": 13,
+        "previous": 19
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "timeframes": {
+      "Дни": {
+        "current": 1,
+        "previous": 1
+      },
+      "Недели": {
+        "current": 4,
+        "previous": 5
+      },
+      "Месяцы": {
+        "current": 11,
+        "previous": 18
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "timeframes": {
+      "Дни": {
+        "current": 1,
+        "previous": 3
+      },
+      "Недели": {
+        "current": 5,
+        "previous": 10
+      },
+      "Месяцы": {
+        "current": 21,
+        "previous": 23
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "timeframes": {
+      "Дни": {
+        "current": 0,
+        "previous": 1
+      },
+      "Недели": {
+        "current": 2,
+        "previous": 2
+      },
+      "Месяцы": {
+        "current": 7,
+        "previous": 11
+      }
+    }
+  }
+]
